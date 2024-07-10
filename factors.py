@@ -8,7 +8,7 @@ Integer = int(input("Please enter a positive integer: "))
 
 #In case someone enters a negative integer and initial printed response
 if Integer <=0:
-    print("Please print a positive integer, thanks."1)
+    print("Please print a positive integer, thanks.")
 else:
     print(f"The factors of {Integer} are:")
 
