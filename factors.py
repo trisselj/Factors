@@ -4,7 +4,7 @@
 # Description: Prints out the factors of an integer entered
 
 #Initial integer request
-Integer = int(input("Please enter the integer you would like to be factored"))
+Integer = int(input("Please enter a positive integer:"))
 
 #In case someone enters a negative integer and initial printed response
 if Integer <=0:
